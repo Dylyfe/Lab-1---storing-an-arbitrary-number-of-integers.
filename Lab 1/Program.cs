@@ -4,6 +4,7 @@ namespace Lab_1
 {
     class Program
     {
+        // Comment 
         static void Main(string[] args)
         {
             int[] numbers = new int[10];
